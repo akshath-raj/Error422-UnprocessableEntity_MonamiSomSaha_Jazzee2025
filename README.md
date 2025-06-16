@@ -1,5 +1,10 @@
 # Emotionally-Aware Multilingual Voice AI for Customer Service
 
+## Video Pitch
+[https://youtu.be/VdmmpVXe8oM]
+
+---
+
 ## Overview
 This project aims to develop an end-to-end Voice AI platform that transforms customer support calls into seamless, empathetic, and efficient interactions. Leveraging Generative AI (LLMs), speech recognition, emotion analysis, and real-time language detection, the system provides personalized, multilingual, and emotionally intelligent support for businesses across various industries, especially in the Indian market.
 

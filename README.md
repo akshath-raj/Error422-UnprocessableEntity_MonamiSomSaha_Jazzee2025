@@ -1,6 +1,6 @@
 # Emotionally-Aware Multilingual Voice AI for Customer Service
 
-## Video Pitch: https://youtu.be/VdmmpVXe8oM
+# Video Pitch: https://youtu.be/VdmmpVXe8oM
 
 ---
 
